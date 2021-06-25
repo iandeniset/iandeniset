@@ -1,5 +1,5 @@
 # Ian Deniset
-> Currently an Environmental Scientist with a background in both geophysics and geotechnical engineering.  When possible, I try to incorporate writing code into anything and everything.
+> I am an Environmental Scientist with a background in both geophysics and geotechnical engineering.  When possible, I try to incorporate writing code into anything and everything.
 
 ## About Me
 - I have a B.Sc. in Geophysics and an M.Sc. in Geotechnical Engineering
